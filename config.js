@@ -3,15 +3,14 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Talent Roy',
+  subtitle: 'Freelance Journalist, Full Stack Web Developer, Social Actitvist, CEO and Historian.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'personal-blog-BaBIDhQl4L',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
-  menu: [
-    {
+  menu: [{
       label: 'Articles',
       path: '/'
     },
@@ -25,9 +24,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Talent Roy',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Freelance Journalist, Full Stack Web Developer, Social Actitvist and Historian',
     contacts: {
       email: '',
       facebook: '#',
